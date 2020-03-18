@@ -3,7 +3,7 @@ testFeignConfig: SUCCESS
 # 配置日志
 logging:
   level:
-    com.huan.study.feign: debug
+    com.dioxide.feign: debug
 
   # feign和hystrix的配置
 feign:
