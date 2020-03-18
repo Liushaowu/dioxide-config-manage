@@ -30,6 +30,6 @@ dioxide-service-one:
     # Interval to refresh the server list from the source
     ServerListRefreshInterval: 2000
     # Connect timeout used by Apache HttpClient
-    ConnectTimeout: 3000
+    ConnectTimeout: 10000
     # Read timeout used by Apache HttpClient
-    ReadTimeout: 3000
+    ReadTimeout: 10000
